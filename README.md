@@ -2,6 +2,8 @@
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+Also, I didn't get any figma or any other design file to accurately match the original design, and for my one, I tried my best to calculate the sizes of the elements by analyzing them with my naked eye.
+
 ## Table of contents
 
 - [Frontend Mentor - Recipe page solution](#frontend-mentor---recipe-page-solution)
