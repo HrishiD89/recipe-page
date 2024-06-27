@@ -49,8 +49,9 @@ h2{
 }
 .container{
     margin: 100px 0;
-    width: 750px;
-    padding: 40px;
+    width: 100%;
+    max-width: 750px;
+    padding: 30px;
     background-color: var(--White);
     border-radius: 12px;
 }
@@ -170,7 +171,37 @@ h2{
     color: var(--Nutmeg);
     font-weight: 700;
 }
-
 .nutrition tr:last-child td{
     border-bottom: none;
+}
+@media screen and (max-width: 480px) {
+    .container{
+        margin: 0;
+        padding: 0;
+    }
+    .recipe-img img{
+        object-fit: cover;
+    }
+    .mobile-container{
+        padding:0 30px;
+        margin-bottom: 30px;
+
+    }
+    p{
+        font-size: 20px;
+    }
+    li,td{
+        font-size: 20px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    h2{
+        font-size: 34px;
+    }
+    .attribution{
+        padding: 10px;
+        text-align:center;
+        font-size: 20px;
+    }
 }
