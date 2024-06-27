@@ -174,10 +174,17 @@ h2{
 .nutrition tr:last-child td{
     border-bottom: none;
 }
+
+.attribution{
+    padding: 10px;
+}
 @media screen and (max-width: 480px) {
     .container{
         margin: 0;
         padding: 0;
+    }
+    .recipe-info > h1{
+        font-size: 40px;
     }
     .recipe-img img{
         object-fit: cover;
@@ -200,7 +207,6 @@ h2{
         font-size: 34px;
     }
     .attribution{
-        padding: 10px;
         text-align:center;
         font-size: 20px;
     }
