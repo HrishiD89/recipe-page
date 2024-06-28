@@ -22,7 +22,7 @@ Also, I didn't get any figma or any other design file to accurately match the or
 
 ### Screenshot
 
-![](./assets/images/Screenshot-Simple%20Omelette%20Recipe.png)
+![](./assets//images/Screenshot%202024-06-28%20at%2003-20-09%20Simple%20Omelette%20Recipe.png)
 
 
 ### Links
