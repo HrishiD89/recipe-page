@@ -47,6 +47,7 @@ h1,h2{
 h2{
     color: var(--Nutmeg);
 }
+
 .container{
     margin: 100px 0;
     width: 100%;
@@ -80,8 +81,10 @@ h2{
     padding: 20px;
     border-radius: 12px;
 }
-.prep-info > h3{
+.prep-info > #prep-time{
     color: var(--DarkRaspberry);
+    font-size: 20px;
+    font-weight: bold;
 }
 .prep-info > ul{
     color: #5b5150;
